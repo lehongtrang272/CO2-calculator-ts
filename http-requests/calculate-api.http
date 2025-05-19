@@ -1,0 +1,8 @@
+POST http://localhost:3000/calculate
+Content-Type: application/json
+
+{
+  "footprint": "STRAWBERRY_4711",
+  "transport": "TRAIN",
+  "targetCountry": "IT"
+}
