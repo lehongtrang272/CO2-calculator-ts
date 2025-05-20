@@ -16,7 +16,7 @@ Using the two provided service: https://frankvisuals.github.io/co2-data/footprin
 }
 ```
 
-For more information about the request structure, please check out the file http-requests/calculate-api.http for example structure of the api request. The file can also be used as a point of simple integration testing using Rest-client plugin on VSCode.
+For more information about the request structure, please check out the file http-requests/calculate-api.http for example of the api request. The file can also be used as a point of simple integration testing using Rest-client plugin on VSCode.
 
 ### Start the application
 
