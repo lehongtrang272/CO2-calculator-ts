@@ -1,6 +1,6 @@
 export class InvalidTransportationError extends Error {
   constructor(message: string) {
     super(message);
-    this.name = "InvalidTransportationError";
+    this.name = 'InvalidTransportationError';
   }
 }

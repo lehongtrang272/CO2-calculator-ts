@@ -6,7 +6,7 @@ const config: Config = {
   transform: {
     '^.+\\.tsx?$': 'ts-jest',
   },
-  extensionsToTreatAsEsm: ['.ts'], 
+  extensionsToTreatAsEsm: ['.ts'],
 };
 
 export default config;
